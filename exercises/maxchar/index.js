@@ -24,4 +24,5 @@ function maxChar(str) {
     return maxKey;
 };
 
+
 module.exports = maxChar;
